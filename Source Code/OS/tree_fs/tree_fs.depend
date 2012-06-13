@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1324300416 source:/home/shane/OS/Tree/tree_fs/main.c
+	<stdio.h>
+	<string.h>
+
